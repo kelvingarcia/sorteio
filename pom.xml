@@ -11,6 +11,7 @@
 	<groupId>com.kelvin</groupId>
 	<artifactId>sorteio</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>sorteio</name>
 	<description>Sorteio Amigo Secreto</description>
 	<properties>
