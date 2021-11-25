@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://kelvingarcia:teste@kelvingarcia-sqn7o.mongodb.net/sorteio?retryWrites=true&w=majority
+  mvc:
+    view:
+      prefix: /WEB-INF/jsp/
+      suffix: .jsp
